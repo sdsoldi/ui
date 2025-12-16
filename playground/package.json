@@ -15,7 +15,7 @@
     "@nuxt/ui": "workspace:*",
     "@nuxthub/core": "^0.10.1",
     "nuxt": "^4.2.2",
-    "zod": "^4.2.0"
+    "zod": "^4.2.1"
   },
   "devDependencies": {
     "typescript": "^5.8.3",
